@@ -1,0 +1,15 @@
+
+
+
+function OnLoad()
+{
+	
+	
+	   timerInit();
+	
+}
+
+
+
+
+
